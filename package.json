@@ -1,16 +1,16 @@
 {
-  "name": "scrbe",
-  "version": "0.1.0",
+	"name": "scrbe",
+	"version": "0.1.0",
 	"author": {
 		"name": "Kane Cohen",
 		"email": "kanecohen@gmail.com"
 	},
   "description": "Simple logger.",
 	"keywords": ["logger", "log", "errors"],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/KaneCohen/scribe.git"
-  },
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/KaneCohen/scribe.git"
+	},
 	"licenses": [
 		{
 			"type": "BSD",
